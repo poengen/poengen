@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Facebook](https://raw.githubusercontent.com/jaredhanson/jaredhanson/master/images/facebook-20x20.svg)](https://www.facebook.com/paloskar) &nbsp;
+[![LinkedIn](https://raw.githubusercontent.com/jaredhanson/jaredhanson/master/images/linkedin-20x20.svg)](https://www.linkedin.com/in/paloskar) &nbsp;
+[![Twitter](https://raw.githubusercontent.com/jaredhanson/jaredhanson/master/images/twitter-20x20.svg)](https://twitter.com/paloskarengen)
+
 <!--
 **poengen/poengen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
